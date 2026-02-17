@@ -1,0 +1,11 @@
+# Go
+/vendor/
+*.exe
+*.test
+*.out
+
+# Java
+target/
+*.class
+*.jar
+*.war
